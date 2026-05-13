@@ -236,3 +236,6 @@ vercel --prod
 | AI | Anthropic Claude Sonnet (insights) + Haiku (SMS/categorize) |
 | Auth | JWT (access + refresh tokens), Google OAuth |
 | Deploy | Vercel (frontend), Railway (backend), MongoDB Atlas |
+
+
+ ### Made with love by K-Squad
